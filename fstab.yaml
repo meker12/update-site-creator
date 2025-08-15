@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/meker12/update-site-creator/
+    type: markup
+
+folders:
+  /products/: /products/default
